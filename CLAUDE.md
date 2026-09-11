@@ -58,3 +58,4 @@ The Sprite URL is org-only by default. Make it public only if asked, with
 - `sprite-url.sh` — sets up / switches the served document (see above).
 - `scripts/serve.py` — the tiny HTTP server the service runs. Do not run it by hand.
 - `demo/` — the HTML document built on the day lives here.
+- `prompts/` — the live prompts for the day, one file each. Each says where to save the HTML and to serve it with `./sprite-url.sh`.
