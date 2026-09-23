@@ -3,6 +3,6 @@
   "private": true,
   "description": "Claude Fable 5.1 Build Day demo. Playwright is here for headless Chromium screenshots.",
   "devDependencies": {
-    "playwright": "^1.63.0"
+    "playwright": "1.63.0"
   }
 }
