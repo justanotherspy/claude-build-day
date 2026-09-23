@@ -9,7 +9,7 @@ simplest thing that runs. Checkpoint after each working step:
 `sprite-env checkpoints create --comment "..."`.
 
 Identity, SSH keys, signing, and GitHub gateway rules are in the parent
-`../CLAUDE.md`. They apply here too.
+`../../CLAUDE.md`. They apply here too.
 
 ## No browser: use headless Chromium via Playwright
 
